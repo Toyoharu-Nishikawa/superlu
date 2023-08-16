@@ -1,0 +1,1 @@
+ MATGEN/libmatgen.a ../SRC/libsuperlu.a ../CBLAS/libblas.a -lm 

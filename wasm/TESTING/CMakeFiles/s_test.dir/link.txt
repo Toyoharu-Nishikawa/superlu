@@ -1,0 +1,1 @@
+/home/tnishikawa/emcc/emsdk/upstream/emscripten/emcc    @CMakeFiles/s_test.dir/objects1.rsp  -o s_test.js @CMakeFiles/s_test.dir/linklibs.rsp
